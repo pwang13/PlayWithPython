@@ -1,3 +1,6 @@
+#mbox is from: http://www.py4inf.com/code/mbox.txt
+#Original Code: http://www.py4inf.com/code/emaildb.py
+
 
 from __future__ import print_function
 import sqlite3
